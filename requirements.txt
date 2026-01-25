@@ -4,3 +4,4 @@ matplotlib==3.10.5
 seaborn==0.13.2
 scikit-learn==1.8.0
 shap==0.50.0
+lime==0.2.0
